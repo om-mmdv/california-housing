@@ -4,6 +4,7 @@ __pycache__/
 data/
 outputs/
 *.joblib
+!models/model.joblib
 .ipynb_checkpoints/
 .vscode/
 .idea/
